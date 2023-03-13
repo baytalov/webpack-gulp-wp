@@ -1,0 +1,5 @@
+{
+  "name": "baytalov/webpack-gulp-wordpress",
+  "description": "Чистая тема с Gulp и Webpack",
+  "type": "wordpress-theme"
+}

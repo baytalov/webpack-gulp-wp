@@ -1,0 +1,17 @@
+// базовые стили
+@import "base/fonts",
+        "base/base";
+
+// макеты
+@import "layout/header",
+        "layout/footer",
+        "layout/forms",
+        "layout/grid";
+
+// компоненты
+@import "components/buttons",
+        "components/modal";
+
+// страницы
+@import "pages/front-page",
+        "pages/page";
